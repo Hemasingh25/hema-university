@@ -156,7 +156,7 @@ export default function Footer() {
       <div className="border-t border-white/5">
         <div className="max-w-7xl mx-auto px-6 py-5 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-xs">
-            © {new Date().getFullYear()} Hema University, Frankfurt, Germany. All rights reserved.
+            © {new Date().getFullYear()} Hema University, Frankfurt, Germany. All rights reserved. <span className="mx-1.5 text-white/10">|</span> Designed &amp; Developed with ❤️ by <span className="text-gold-400 font-semibold">Hema Singh</span>
           </p>
           <div className="flex items-center gap-6">
             {['Privacy Policy', 'Terms of Use', 'Sitemap'].map((item) => (
