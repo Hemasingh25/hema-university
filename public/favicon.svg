@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Background Shield -->
+  <path d="M256,16 C160,16 80,96 80,192 C80,320 256,496 256,496 C256,496 432,320 432,192 C432,96 352,16 256,16 Z" fill="#080c14" stroke="#c9a84c" stroke-width="24" stroke-linejoin="round" />
+  <!-- Graduation Cap Icon in Gold -->
+  <path d="M256,128 L400,192 L256,256 L112,192 Z" fill="#c9a84c" />
+  <path d="M176,224 L176,304 C176,336 212,352 256,352 C300,352 336,336 336,304 L336,224" fill="none" stroke="#c9a84c" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M360,192 L360,288" fill="none" stroke="#c9a84c" stroke-width="12" stroke-linecap="round" />
+  <circle cx="360" cy="296" r="16" fill="#c9a84c" />
+</svg>
